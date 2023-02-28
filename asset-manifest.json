@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MERNPortfolioWebsite/static/css/main.5bf82cf3.css",
-    "main.js": "/MERNPortfolioWebsite/static/js/main.a2ddb550.js",
+    "main.js": "/MERNPortfolioWebsite/static/js/main.5e07ed26.js",
     "static/media/Lautaro-Perrotti.jpg": "/MERNPortfolioWebsite/static/media/Lautaro-Perrotti.23bdda5c363654a275f8.jpg",
     "index.html": "/MERNPortfolioWebsite/index.html",
     "main.5bf82cf3.css.map": "/MERNPortfolioWebsite/static/css/main.5bf82cf3.css.map",
-    "main.a2ddb550.js.map": "/MERNPortfolioWebsite/static/js/main.a2ddb550.js.map"
+    "main.5e07ed26.js.map": "/MERNPortfolioWebsite/static/js/main.5e07ed26.js.map"
   },
   "entrypoints": [
     "static/css/main.5bf82cf3.css",
-    "static/js/main.a2ddb550.js"
+    "static/js/main.5e07ed26.js"
   ]
 }
